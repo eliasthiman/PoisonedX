@@ -15,16 +15,16 @@ This is a pixel art arcade game built with Rune SDK.
 - **JavaScript**: All the base code has a object oriented design and is using the design from Rune SDK. The style of the code is in ES5 (Ecmascript 5).
 - **Electron**: Electron is the main environment to run the game in. It is also possible to run it in Chrome!
 
-## Installation
+# Installation
 
 To get started with further development on PoisonedX or to play it, follow these steps:
 
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/eliasthiman/PWA_Budgetapp.git
 ```
 
-# Navigate to the project directory and install the required packages
+## Navigate to the project directory and install the required packages
 ```bash
 cd /poisonedX
 ```
@@ -32,7 +32,7 @@ cd /poisonedX
 npm install
 ```
 
-# To play the game (Note this requires two players since it is a co-op only)
+## To play the game (Note this requires two players since it is a co-op only)
 
 ```bash
 npm start 
