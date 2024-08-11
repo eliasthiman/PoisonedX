@@ -19,6 +19,11 @@ This is a pixel art arcade game built with Rune SDK.
 
 To get started with further development on PoisonedX or to play it, follow these steps:
 
+## Install Electron by following this guide
+```bash
+https://www.electronjs.org/docs/latest/tutorial/installation/
+```
+
 ## Clone the repository
 ```bash
 git clone https://github.com/eliasthiman/PWA_Budgetapp.git
