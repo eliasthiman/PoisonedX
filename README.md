@@ -1,4 +1,4 @@
-# PoisonedX - A pixel art co-op shoot em up arcade game
+# PoisonedX - A pixel art co-op shoot em' up arcade game
 
 This is a pixel art arcade game built with Rune SDK. 
 
