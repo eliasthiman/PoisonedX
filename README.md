@@ -2,8 +2,8 @@
 
 This is a pixel art arcade game built with Rune SDK. 
 
-## Published link to application
-
+## Requirements 
+- **Controllers**: The game requires two controllers in order to play the game. These can be either xbox360 or playstation 3, 4, or 5 controllers for example
 
 
 ## Overview
@@ -13,6 +13,7 @@ BudgetBuddy is an application designed to handle budgets in an easy and fast way
 ## Technologies Used
 
 - **JavaScript**: All the base code has a object oriented design and is using the design from Rune SDK. The style of the code is in ES5 (Ecmascript 5).
+- **Electron**: Electron is the main environment to run the game in. It is also possible to run it in Chrome!
 
 ## Installation
 
@@ -24,5 +25,7 @@ git clone https://github.com/eliasthiman/PWA_Budgetapp.git
 
 # Navigate to the project directory
 run npm install to install all the required packages
+
+# To play the game (Note this requires two players since it is a co-op only)
 
 
