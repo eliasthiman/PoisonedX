@@ -14,8 +14,10 @@ This is a pixel art arcade game built with Rune SDK.
 
 - **JavaScript**: All the base code has a object oriented design and is using the design from Rune SDK. The style of the code is in ES5 (Ecmascript 5).
 - **Electron**: Electron is the main environment to run the game in. It is also possible to run it in Chrome!
-- **RUNE SDK**: Check out the SDK documentation 
-
+- **RUNE SDK**: Check out the SDK documentation
+```bash
+https://vectorpanic.github.io/rune-docs/
+```
 # Installation
 
 To get started with further development on PoisonedX or to play it, follow these steps:
