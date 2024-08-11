@@ -37,7 +37,7 @@ cd /poisonedX
 npm install
 ```
 
-### To play the game (Note this requires two players since it is a co-op only)
+### To play the game (Note this requires two players since it is a two player co-op only)
 
 ```bash
 npm start 
