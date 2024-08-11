@@ -3,7 +3,7 @@
 This is a pixel art arcade game built with Rune SDK. 
 
 ## Requirements 
-- **Controllers**: The game requires two controllers in order to play the game. These can be either xbox360 or playstation 3, 4, or 5 controllers for example
+- **Controllers**: The game requires two controllers in order to play the game. These can be either xbox360 or playstation 5 controllers for example
 
 
 ## Overview
