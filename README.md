@@ -8,7 +8,7 @@ This is a pixel art arcade game built with Rune SDK.
 
 ## Overview
 
-BudgetBuddy is an application designed to handle budgets in an easy and fast way. With a focus on generating budget suggestion using an API, it caters to those who want to keep track of their spending. 
+**PoisonedX** is a fast-paced, co-op shoot 'em up that throws you and a partner into a relentless pixel art arcade battle for survival. In a world overrun by monsters, you’re both poisoned, and your health is ticking away with every second. To stay alive, you must work together to fend off waves of enemies while desperately hunting for antidotes to extend your time. The longer you survive, the tougher the challenges become. Can you and your partner outlast the poison and the hordes, or will you succumb to the chaos? Test your skills and teamwork in **PoisonedX**—where every second counts.
 
 ## Technologies Used
 
