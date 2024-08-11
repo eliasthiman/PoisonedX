@@ -44,4 +44,8 @@ npm install
 ```bash
 npm start 
 ```
-
+### Having issues?
+Check out the Rune SDK documentation. The front page should have a link to rune-tools
+```bash
+https://vectorpanic.github.io/rune-docs/
+```
